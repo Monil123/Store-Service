@@ -1,1 +1,1 @@
-web:    java -jar target/StoreManagement.war /StoreManagement/WebContent/index.jsp
+web:    java -jar target/StoreManagement.war Store-Service/client/jsp/index.jsp
