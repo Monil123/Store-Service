@@ -1,1 +1,1 @@
-web:    java -war target/StoreManagement.war
+web:    java -jar target/StoreManagement.jar
