@@ -70,9 +70,9 @@
                         <artifactItems>
                             <artifactItem>
                                 <groupId>com.github.jsimone</groupId>
-                                <artifactId>webapp-runner-7.0.27.1</artifactId>
+                                <artifactId>webapp-runner</artifactId>
                                 <version>8.5.11.2</version>
-                                <destFileName>webapp-runner-7.0.27.1.jar</destFileName>
+                                <destFileName>webapp-runner.jar</destFileName>
                             </artifactItem>
                         </artifactItems>
                     </configuration>
