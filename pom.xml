@@ -36,7 +36,7 @@
 	</dependencies>
  
 	<build>
-		<sourceDirectory>C:\Users\Monil\workspace\StoreManagement\src\com\Store</sourceDirectory>
+		<sourceDirectory>Store-Service/src/main/</sourceDirectory>
  
 		<plugins>
  
